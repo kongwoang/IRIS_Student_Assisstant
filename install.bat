@@ -1,0 +1,13 @@
+pip install speechrecognition
+pip install wikipedia
+pip install pipwin
+pipwin install pyaudio
+pip install gtts
+pip install xlrd
+pip install tk
+pip install playsound
+pip install selenium
+pip install webdriver_manager
+pip install youtube_search
+pip install youtube-search-python
+pip install Pillow
